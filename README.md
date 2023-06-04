@@ -1,6 +1,10 @@
 ### Hi there 👋
 
 
+- 🌱 I’m currently learning ...
+  
+- 👯 I’m looking to collaborate on ...
+
 
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center> 
