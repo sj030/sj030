@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning ...
   - flutter
   - unity
+  - data structure
 - 👯 I’m looking to collaborate on ...
 
 
