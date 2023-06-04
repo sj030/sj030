@@ -22,11 +22,16 @@
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
   <img src="https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black">
   <img src="https://img.shields.io/badge/-C%23-000000?style=for-the-badge&logo=Csharp&logoColor=white">
-  
 </div>
 
+<div align=center> 
 다음으로... 경각심을 위한 프로필입니다 ^^<br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hsj3151120)](https://solved.ac/hsj3151120/)
+</
+  
+  
+  
+  
 <!--
 **sj030/sj030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
