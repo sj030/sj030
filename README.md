@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-  <img src="https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=white">
+  <img src="https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=white">
   
 </div>
 
