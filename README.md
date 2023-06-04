@@ -2,7 +2,8 @@
 
 
 - 🌱 I’m currently learning ...
-  
+  - flutter
+  - unity
 - 👯 I’m looking to collaborate on ...
 
 
