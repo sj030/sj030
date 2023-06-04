@@ -27,7 +27,7 @@
 <div align=center> 
 다음으로... 경각심을 위한 프로필입니다 ^^<br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hsj3151120)](https://solved.ac/hsj3151120/)
-</
+</div>
   
   
   
