@@ -35,7 +35,8 @@ Here are some ideas to get you started:
   blog
   tor browser 
 
-
+- 🌱 I’m currently learning ...
+  flutter
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
