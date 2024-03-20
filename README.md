@@ -1,29 +1,32 @@
-# 반가워요! 황서진입니다 : )👋
+# 반가워요! 황서진입니다! 👋😄
 
 ### Hobby ✨
-- 일렉기타연주 (밴드부 활동중!) <br>
-- 운동 (을 좋아하기 시작하는 중)
+- 일렉기타 연주 🎸 (밴드부 활동중!) <br>
+- 운동 🏃 (을 좋아하기 시작하는 중)
 <br>
 
 ### 🌱 I'm now interesting in ...
-- System programming <br> 
-- Signal processing <br>
-- Algorithm study <br>
-- AI <br>
+- System programming 💻 <br> 
+- Signal processing 〰️ <br>
+- Algorithm study 🙏 <br>
+- AI 🤘 <br>
 
 <hr>
 
 ### Experience
 **2024**
 <br> - Voinosis start-up Internship (2024.01 - 02)
-<br>
 **2023**
 <br> - [SW심화프로젝트] 수업
-<br> - [SW입문프로젝트] 수업
-<br>
+<br> - [SW입문프로젝트] 수업 : Turtlebot3를 이용한 디지털 주행 (23-1)
+<br> - [러닝앤쉐어링] (교내 활동) 아두이노 프로젝트 우수 활동 수상 (23.03 - 23.06)
+<br> - I-Buddy 교환학생 지원 프로그램 (23.03 - 23.06)
+<br> - 서울런 멘토단 1년 활동
+
 
 **2022**
-<br> - 
+<br> - [서울시립청소년센터] 초등코딩교육봉사 - 건대랑코딩할건대? 중급반 멘토 (22.09 - 22.11)
+
 
 
 <br><br>
