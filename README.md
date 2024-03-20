@@ -3,14 +3,14 @@
 ### Hobby ✨
 - 일렉기타연주 (밴드부 활동중!) <br>
 - 운동(에 맛을 들이는 중)
-
-## 🌱 I'm now interesting in ...
+<br> 
+### 🌱 I'm now interesting in ...
 <br> - System programming
 <br> - Signal processing
 <br> - Algorithm study 
 <br> - AI
 
-## Experience
+### Experience
 **2024**
 <br> - Voinosis start-up Internship (2024.01 - 02)
 <br>
@@ -24,7 +24,7 @@
 
 
 <br><br>
-## Stacks 📚
+### Stacks 📚
 **Language**
 - 해당 언어를 활용한 프로젝트를 진행해봤어요! <br>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
