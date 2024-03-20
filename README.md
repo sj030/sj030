@@ -1,7 +1,8 @@
 # 반가워요! 황서진입니다 : )👋
 
 ### Hobby 
-일렉기타연주 (밴드활동). 운동(에 맛을 들이는 중)
+일렉기타연주 (밴드활동). <br>
+운동(에 맛을 들이는 중)
 
 ## 🌱 I'm now interesting in ...
 <br> - System programming
