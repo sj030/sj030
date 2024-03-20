@@ -15,7 +15,9 @@
 
 ### Experience
 **2024**
-<br> - Voinosis start-up Internship (2024.01 - 02)
+<br> - Voinosis start-up Internship (2024.01 - 02) 
+<br>
+
 **2023**
 <br> - [SW심화프로젝트] 수업
 <br> - [SW입문프로젝트] 수업 : Turtlebot3를 이용한 디지털 주행 (23-1)
