@@ -1,5 +1,5 @@
 ### 반가워요! 황서진입니다 : )👋
-<hr>
+
 - 🌱 I'm now interesting in ...
 <br> System programming
 <br> Signal processing
