@@ -40,8 +40,8 @@
 
 
 **Algorithm** 
-꾸준하고 꼼꼼히 풀어가다보면, 평생 알고리즘을 못하진 않을거에요!! 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hsj3151120)](https://solved.ac/hsj3151120/)
+<br> [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hsj3151120)](https://solved.ac/hsj3151120/)
+
 
 **ANOTHER...**
 - 👯 I’m looking to collaborate on ...
