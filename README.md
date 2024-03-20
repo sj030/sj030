@@ -1,5 +1,6 @@
 # 반가워요! 황서진입니다 : )👋
-<br> <br>
+<br>
+- 취미 : 일렉기타연주 (밴드활동). 운동(에 맛을 들이는 중)
 
 ## 🌱 I'm now interesting in ...
 <br> - System programming
