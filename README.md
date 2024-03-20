@@ -1,9 +1,17 @@
-### Hi there 👋
+### 반가워요! 황서진입니다 : )👋
+<hr>
+- 🌱 I'm now interesting in ...
+<br> System programming
+<br> Signal processing
+<br> Algorithm study 
+## Experience
+**2024**
+<br> Voinosis start-up Internship (2024.01 - 02)
+<br>
+**2023**
 
+**2022**
 
-- 🌱 I’m currently learning ...
-
-- 👯 I’m looking to collaborate on ...
 
 
 
@@ -34,6 +42,7 @@ Here are some ideas to get you started:
   SLAM
   blog
   tor browser 
+- 👯 I’m looking to collaborate on ...
 
 - 🌱 I’m currently learning ...
   flutter
