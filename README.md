@@ -3,12 +3,13 @@
 ### Hobby ✨
 - 일렉기타연주 (밴드부 활동중!) <br>
 - 운동(에 맛을 들이는 중)
-<br> 
+<br>
+
 ### 🌱 I'm now interesting in ...
-<br> - System programming
-<br> - Signal processing
-<br> - Algorithm study 
-<br> - AI
+- System programming <br> 
+- Signal processing <br>
+- Algorithm study <br>
+- AI <br>
 
 ### Experience
 **2024**
