@@ -2,7 +2,7 @@
 
 ### Hobby ✨
 - 일렉기타연주 (밴드부 활동중!) <br>
-- 운동(에 맛을 들이는 중)
+- 운동 (을 좋아하기 시작하는 중)
 <br>
 
 ### 🌱 I'm now interesting in ...
@@ -10,6 +10,8 @@
 - Signal processing <br>
 - Algorithm study <br>
 - AI <br>
+
+<hr>
 
 ### Experience
 **2024**
