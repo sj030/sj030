@@ -1,4 +1,4 @@
-# 황서진입니다! 👋
+
 
 <br>
 
@@ -44,13 +44,7 @@
   <img src="https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black">
 
 
-**Algorithm** 
-<br> [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hsj3151120)](https://solved.ac/hsj3151120/)
 
-
-**ANOTHER...**
-- 👯 I’m looking to collaborate on ...
-  
 <!--
 **sj030/sj030** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
